@@ -1,10 +1,12 @@
 ![pao-gazzia-logo-png](https://github.com/PaoGazzia/PaoGazzia/assets/140565005/92497c15-5910-4210-928b-f5e69169bd49)
 
 
-![th](https://github.com/PaoGazzia/PaoGazzia/assets/140565005/bc962e17-0552-4d2d-8d41-f0da0fcd690f) en proceso a serlo
+![th](https://github.com/PaoGazzia/PaoGazzia/assets/140565005/bc962e17-0552-4d2d-8d41-f0da0fcd690f)
 
 
-- 👋 Hola, mi nombre es @PaoGazzia
+- 👋 Hola, mi nombre es @PaoGazzia y estoy en el porceso de aprendizaje para ser una Desarrolladora Frontend
+
+  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
